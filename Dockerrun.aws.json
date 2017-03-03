@@ -11,7 +11,7 @@
 	],
 	"Volumes": [
 			{
-			 	"HostDirectory": "/var/app/mydb",
+			 	"HostDirectory": "/var/app/myfiles",
 			        "ContainerDirectory": "/tmp/blah"
 			}
 		  ]
