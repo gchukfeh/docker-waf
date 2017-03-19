@@ -15,3 +15,4 @@ Add wildcard.klick.com.crt /usr/local/nginx/conf/wildcard.klick.com.crt
 CMD nginx -g 'daemon off;'
 
 EXPOSE 80
+EXPOSE 443
